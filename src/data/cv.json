@@ -1,55 +1,48 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Software Engineer",
-    "email": "johndoe@example.com",
-    "phone": "+1 234 567 890",
+    "name": "MOHAMMED IBTHEHAZ SHAHARIER FAYED",
+    "label": "Client Relations & Operations Executive",
+    "email": "ayedshaharier17@gmail.com",
+    "phone": "+880 1728427174",
     "url": "https://johndoe.dev",
     "image": "/profile.jpg",
-    "summary": "Passionate developer with 5+ years of experience in building web applications.",
+    "summary": "I am a detail-oriented and tech-savvy graduate with a strong foundation in communication and client servicing.",
     "location": {
-      "address": "",
+      "address": "Chawkbazzar,Chittagong",
       "postalCode": "",
-      "city": "Palo Alto",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Chittagong",
+      "countryCode": "Bangladesh",
+      "region": "Chawkbazzar"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "johndoe",
-        "url": "https://linkedin.com/in/johndoe"
+        "username": "Ibthehaz Shaharier Fayed",
+        "url": "linkedin.com/in/ibthehaz-shaharier-fayed-4449b3209"
       },
       {
         "network": "GitHub",
-        "username": "jsonresume",
-        "url": "https://github.com/jsonresume"
+        "username": "Fayed17",
+        "url": "https://github.com/Fayed17"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Company",
-      "position": "Senior Developer",
-      "url": "https://techcompany.com",
-      "startDate": "2020-06-01",
-      "summary": "Developing full-stack applications using JavaScript, React, and Node.js."
+      "name": "Tazim Travels (In Association with Worldlink Tours & Travels)",
+      "position": "Client Relations & Operations Executive",
+      
+      "startDate": "2023-04-01",
+      "endDate": "2025-02-21",
+      "summary": "As a Client Relations & Operations Executive at Tazim Travels in Chattogram, Bangladesh, from April 2023 to February 2025, i have handled overseas client communication and inquiries, managed travel documentation, ensured smooth customer service and issue resolution, and collaborated with internal teams to optimize workflow. I am also familiar with tools such as Zapier, ClickUp, Make.com, Brevo Email Campaigns, Lead Generation Tools, and BambooHR."
     },
     {
-      "name": "Web Agency",
-      "position": "Frontend Developer",
-      "url": "https://webagency.com",
+      "name": "Ulterior Engineering & Research Institute",
+      "position": "Student Services Intern",
+      
       "startDate": "2018-01-01",
       "endDate": "2020-05-01",
-      "summary": "Worked on various client projects, focusing on responsive design and performance optimization."
-    },
-    {
-      "name": "Startup Inc.",
-      "position": "Intern",
-      "url": "https://startupinc.com",
-      "startDate": "2017-06-01",
-      "endDate": "2017-12-01",
-      "summary": "Assisted in the development of a web application for internal use."
+      "summary": "During my time as a Student Services Intern at Ulterior Engineering & Research Institute in Chattogram, Bangladesh, from March 2021 to September 2022, i assisted with administrative tasks and student-related communications. I have also coordinated learning sessions, handled academic queries, and gained experience in service delivery and organizational support."
     }
   ],
   "volunteer": [
@@ -63,14 +56,28 @@
   ],
   "education": [
     {
-      "institution": "University of Tech",
-      "area": "Computer Science",
+      "institution": "International Islamic University Chittagong",
+      "area": "Electrical & Electronic Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "2016-09-01",
-      "endDate": "2020-06-01",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
+      "startDate": "YYYY-MM-DD",
+      "endDate": "YYYY-MM-DD",
+      "courses": []
+    },
+    {
+      "institution": "Chittagong Model College",
+      "area": "Science",
+      "studyType": "Higher Secondary Certificate (HSC)",
+      "startDate": "YYYY-MM-DD",
+      "endDate": "YYYY-MM-DD",
+      "courses": []
+    },
+    {
+      "institution": "Chittagong Govt. High School",
+      "area": "Science",
+      "studyType": "Secondary School Certificate (SSC)",
+      "startDate": "YYYY-MM-DD",
+      "endDate": "YYYY-MM-DD",
+      "courses": []
     }
   ],
   "skills": [
