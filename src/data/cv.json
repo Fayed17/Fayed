@@ -2,17 +2,17 @@
   "basics": {
     "name": "MOHAMMED IBTHEHAZ SHAHARIER FAYED",
     "label": "Client Relations & Operations Executive",
-    "email": "ayedshaharier17@gmail.com",
+    "email": "fayedshaharier17@gmail.com",
     "phone": "+880 1728427174",
     "url": "https://johndoe.dev",
-    "image": "/profile.jpg",
+    "image": "/fayed.png",
     "summary": "I am a detail-oriented and tech-savvy graduate with a strong foundation in communication and client servicing.",
     "location": {
-      "address": "Chawkbazzar,Chittagong",
-      "postalCode": "",
+      "address": "Chawkbazar,Chittagong",
+      "postalCode": "4203",
       "city": "Chittagong",
       "countryCode": "Bangladesh",
-      "region": "Chawkbazzar"
+      "region": "Chawkbazar"
     },
     "profiles": [
       {
@@ -20,10 +20,16 @@
         "username": "Ibthehaz Shaharier Fayed",
         "url": "linkedin.com/in/ibthehaz-shaharier-fayed-4449b3209"
       },
+      
       {
         "network": "GitHub",
         "username": "Fayed17",
         "url": "https://github.com/Fayed17"
+      },
+      {
+        "network": "Behance",
+        "username": "Ibthehaz Shaharier Fayed",
+        "url": "https://www.behance.net/et191053fayed"
       }
     ]
   },
@@ -59,33 +65,29 @@
       "institution": "International Islamic University Chittagong",
       "area": "Electrical & Electronic Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "YYYY-MM-DD",
-      "endDate": "YYYY-MM-DD",
+      "startDate": "2019-10-12",
+      "endDate": "2024-06-19",
       "courses": []
     },
     {
       "institution": "Chittagong Model College",
       "area": "Science",
       "studyType": "Higher Secondary Certificate (HSC)",
-      "startDate": "YYYY-MM-DD",
-      "endDate": "YYYY-MM-DD",
+      "startDate": "2015-04-01",
+      "endDate": "2016-12-15",
       "courses": []
     },
     {
       "institution": "Chittagong Govt. High School",
       "area": "Science",
       "studyType": "Secondary School Certificate (SSC)",
-      "startDate": "YYYY-MM-DD",
-      "endDate": "YYYY-MM-DD",
+      "startDate": "2009-01-01",
+      "endDate": "2014-12-31",
       "courses": []
     }
   ],
   "skills": [
-    {
-      "name": "Astro",
-      "level": "Proficient",
-      "keywords": ["Frontend", "Static Site Generation"]
-    },
+    
     {
       "name": "HTML",
       "level": "Advanced",
@@ -95,6 +97,12 @@
       "name": "CSS",
       "level": "Advanced",
       "keywords": ["Frontend", "Responsive Design"]
+    },
+    
+    {
+      "name": "ui/ux",
+      "level": "Advanced",
+      "keywords": ["JavaScript", "Static Typing"]
     },
     {
       "name": "JavaScript",
@@ -126,6 +134,7 @@
       "level": "Intermediate",
       "keywords": ["JavaScript", "Static Typing"]
     }
+   
   ],
   "languages": [
     {
