@@ -29,6 +29,7 @@ export const SKILL_ICON_MAP = {
   github: 'devicon:github',
   linux: 'devicon:linux',
   docker: 'devicon:docker',
+  Behance: 'devicon-behance-plain colored',
 
   // Databases
   mysql: 'devicon:mysql',
