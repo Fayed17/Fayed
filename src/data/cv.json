@@ -8,11 +8,11 @@
     "image": "/fayed.png",
     "summary": "I am a detail-oriented and tech-savvy graduate with a strong foundation in communication and client servicing.",
     "location": {
-      "address": "Chawkbazar,Chittagong",
+      "address": "Basabo, Dhaka",
       "postalCode": "4203",
-      "city": "Chittagong",
+      "city": "Basabo",
       "countryCode": "Bangladesh",
-      "region": "Chawkbazar"
+      "region": "Dhaka"
     },
     "profiles": [
       {
@@ -55,7 +55,7 @@
     {
       "organization": "Open Source Initiative",
       "position": "Contributor",
-      "url": "https://opensource.org",
+      "url": "https://www.behance.net/et191053fayed",
       "startDate": "2021-01-01",
       "summary": "Contributing to open-source projects and helping maintain documentation."
     }
@@ -148,8 +148,8 @@
       "description": "A personal website showcasing my work and skills.",
       "isActive": true,
       "highlights": [
-        "Built with love using the Astrolio template",
-        "Responsive design using Astro, Typescript, and Ninja Keys",
+        "Built with love using Figma template",
+        "Responsive design using Figma, Framer, and Webflow",
         "Integrated with GitHub API to display projects",
         "Employed the JSON Resume format for easy updates"
       ],
